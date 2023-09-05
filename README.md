@@ -1,8 +1,9 @@
 # projetos-ti
 O que estou aprendendo em gestão de projetos de TI
 
+### Processos de Gerenciamento de projetos: Introdução
 <details>
-<summary> Processos de Gerenciamento de projetos: Introdução </summary>
+<summary> Introdução </summary>
 
 Projeto: Possui início e fim bem definidos, sendo um esforço temporário para atingir um ou mais objetivos.
  
@@ -33,8 +34,9 @@ Obs.: Se gerindo desde sempre as partes interessadas, se precisar mudar alguma c
  
 </details>
 
+### Processos de Gerenciamento de projetos: Visão geral
 <details>
-<summary> Processos de Gerenciamento de projetos: Visão geral </summary>
+<summary>  Visão geral </summary>
 
 **são subdivididos em 5 grupos de processos: Iniciação, planejamento, execução, monitoramento e controle, encerramento**
 
@@ -56,8 +58,9 @@ De maneira bem geral, os processos de gerenciamento de projetos incluem:
 
 </details>
 
+### Processos de Gerenciamento de projetos: Iniciação
 <details>
-<summary> Processos de Gerenciamento de projetos: Iniciação </summary>
+<summary> Iniciação </summary>
 
 Interface entre antes do projeto e trabalho de planejamento
   
@@ -69,8 +72,9 @@ Interface entre antes do projeto e trabalho de planejamento
 
 </details>
 
+### Processos de Gerenciamento de projetos: Planejamento
 <details>
-<summary> Processos de Gerenciamento de projetos: Planejamento </summary>
+<summary> Planejamento </summary>
 
 Se pode planejar e replanejar o projeto diversas vezes 
  De que forma você vai colocar o seu time em campo? 
@@ -83,8 +87,9 @@ Se pode planejar e replanejar o projeto diversas vezes
 
 </details>
 
+### Processos de Gerenciamento de projetos: Execução
 <details>
-<summary> Processos de Gerenciamento de projetos: Execução </summary>
+<summary>  Execução </summary>
 
 A maior parte do orçamento e tempo do projeto vai ser nessa etapa.
 
@@ -96,8 +101,9 @@ A maior parte do orçamento e tempo do projeto vai ser nessa etapa.
 
 </details>
 
+### Processos de Gerenciamento de projetos: Monitoramento e controle
 <details>
-<summary> Processos de Gerenciamento de projetos: Monitoramento e controle  </summary>
+<summary>  Monitoramento e controle  </summary>
 
 Monitorar é acompanhar o andamento do projeto 
 
@@ -109,8 +115,9 @@ Monitorar é acompanhar o andamento do projeto
 
 </details>
 
+### Processos de Gerenciamento de projetos: Encerramento
 <details>
-<summary> Processos de Gerenciamento de projetos: Encerramento  </summary>
+<summary>  Encerramento  </summary>
 
 - Encerrar contratos 
  - armazenar lições aprendidas 
