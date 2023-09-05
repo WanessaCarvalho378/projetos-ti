@@ -66,10 +66,13 @@ De maneira bem geral, os processos de gerenciamento de projetos incluem:
 Interface entre antes do projeto e trabalho de planejamento
   
  - definir o gerente do projeto 
- - desenvolvimento de termo de abertura 
+ - desenvolvimento de termo de abertura
+ - avaliar a viabilidade do projeto
  - Entender a posição do projeto dentro da organização 
  - Identificar as partes interessadas (Já se pensa desde a iniciação, mas em termos gerais, é um processo contínuo)
- - Ver a estrutura organizacional 
+ - Ver a estrutura organizacional
+   
+![Iniciacao](https://github.com/WanessaCarvalho378/projetos-ti/assets/143955162/d1d5b5c0-abc0-4bb4-91f9-e0406e18829b)
 
 </details>
 
@@ -77,14 +80,25 @@ Interface entre antes do projeto e trabalho de planejamento
 <details>
 <summary> Planejamento </summary>
 
-Se pode planejar e replanejar o projeto diversas vezes 
- De que forma você vai colocar o seu time em campo? 
- 
- - estipular processos de planejamento do projeto 
+- Definir Escopo do Projeto
+- Desenvolver EAP (Estrutura Analítica do Projeto)
  - Como serão coletados os requisitos 
- - definir o escopo do projeto 
-  - planejar respostas aos riscos identificados 
- - planejar os recursos humanos (ver os funcionários)
+- Planejar Riscos
+- Estimar Atividades
+- Definir Equipe
+- Desenvolver Cronograma
+- Planejar Custos
+- Planejar Comunicação
+- Planejar Qualidade
+- Consolidar Plano de Projeto
+- Realizar Reunião de Aprovação do Planejamento
+
+**O plano do projeto e os documentos do projeto desenvolvidos como saídas do processo de planejamento explora os principais aspectos do escopo, tempo, qualidade, comunicações, recursos humanos, riscos, aquisições e gerenciamento das partes interessadas (que é no que vai se aprofundar nos próximos tópicos).**
+
+*As atualizações resultantes das mudanças aprovadas durante o projeto (geralmente durante o processo de monitoramento e controle) podem influenciar significativamente o plano do projeto e os documentos do projeto.*
+
+![planejamento](https://github.com/WanessaCarvalho378/projetos-ti/assets/143955162/694c2aa3-fc44-4668-a396-12c362055155)
+
 
 </details>
 
@@ -100,6 +114,9 @@ A maior parte do orçamento e tempo do projeto vai ser nessa etapa.
 - Garantir que as partes interessadas estejam engajadas e informadas 
 - Gerenciar as comunicações (se faz de maneira mais ativa nessa parte)
 
+  ![Execução](https://github.com/WanessaCarvalho378/projetos-ti/assets/143955162/829f224d-1e80-49c9-a855-80ce80f9fb2f)
+
+
 </details>
 
 ### Processos de Gerenciamento de projetos: Monitoramento e controle
@@ -113,6 +130,9 @@ Monitorar é acompanhar o andamento do projeto
 - controlar a qualidade do projeto 
 - gerar relatórios de desempenho 
 - Controlar os riscos e aquisições 
+
+![Monitoramento e Controle](https://github.com/WanessaCarvalho378/projetos-ti/assets/143955162/fec0366c-6dd0-4edb-acc7-adf1727228f5)
+
 
 </details>
 
