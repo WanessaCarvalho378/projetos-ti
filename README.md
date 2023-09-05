@@ -1,6 +1,10 @@
 # projetos-ti
 O que estou aprendendo em gestão de projetos de TI
 
+![gestao_projetos](https://github.com/WanessaCarvalho378/projetos-ti/assets/143955162/8d43e686-dd3a-4715-9fdf-a2b8a4d5347e)
+
+https://pgp.mctic.gov.br/index.htm
+
 ### Processos de Gerenciamento de projetos: Introdução
 <details>
 <summary> Introdução </summary>
@@ -143,5 +147,8 @@ Monitorar é acompanhar o andamento do projeto
 - Encerrar contratos 
  - armazenar lições aprendidas 
  - receber aceite formal das entregas do projeto pelo cliente
+
+![Encerramento](https://github.com/WanessaCarvalho378/projetos-ti/assets/143955162/4064e3d2-1da8-45e9-bb99-13dd2638bd42)
+
 
 </details>
