@@ -40,9 +40,10 @@ Obs.: Se gerindo desde sempre as partes interessadas, se precisar mudar alguma c
 
 **são subdivididos em 5 grupos de processos: Iniciação, planejamento, execução, monitoramento e controle, encerramento**
 
- Os grupos de processos servem pra te dar um maior entendimento, eles não acontecem um por um, mas sim se sobrepondo ao longo do ciclo de vida de um projeto.
- 
- Você pode olhar os processos de gerenciamento pela perspectiva de área de conhecimento, com área de integração, tempo, escopo, custos, qualidade, comunicações, riscos, aquisições, recursos humanos, partes interessadas
+Os grupos de processos servem pra te dar um maior entendimento, eles não acontecem um por um, mas sim se sobrepondo ao longo do ciclo de vida de um projeto.
+Cada grupo de processo descreve uma série de atividades de gerenciamento de projetos, onde a saída de um processo pode ser utilizada como entrada em outro processo, justamente porque eles se sobrepõem ao longo do ciclo de vida 
+
+Você pode olhar os processos de gerenciamento pela perspectiva de área de conhecimento, com área de integração, tempo, escopo, custos, qualidade, comunicações, riscos, aquisições, recursos humanos, partes interessadas
  
  *escopo = o que o projeto se propõe a entregar? 
  escopo de produto é diferente de escopo de projeto* 
