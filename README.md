@@ -5,7 +5,7 @@ O que estou aprendendo em gestão de projetos de TI
 
 https://pgp.mctic.gov.br/index.htm
 
-### Processos de Gerenciamento de projetos: Introdução
+### Processos de Gerenciamento de projetos
 <details>
 <summary> Introdução </summary>
 
@@ -38,7 +38,7 @@ Obs.: Se gerindo desde sempre as partes interessadas, se precisar mudar alguma c
  
 </details>
 
-### Processos de Gerenciamento de projetos: Visão geral
+
 <details>
 <summary>  Visão geral </summary>
 
@@ -63,7 +63,7 @@ De maneira bem geral, os processos de gerenciamento de projetos incluem:
 
 </details>
 
-### Processos de Gerenciamento de projetos: Iniciação
+
 <details>
 <summary> Iniciação </summary>
 
@@ -80,7 +80,7 @@ Interface entre antes do projeto e trabalho de planejamento
 
 </details>
 
-### Processos de Gerenciamento de projetos: Planejamento
+
 <details>
 <summary> Planejamento </summary>
 
@@ -106,7 +106,7 @@ Interface entre antes do projeto e trabalho de planejamento
 
 </details>
 
-### Processos de Gerenciamento de projetos: Execução
+
 <details>
 <summary>  Execução </summary>
 
@@ -123,7 +123,7 @@ A maior parte do orçamento e tempo do projeto vai ser nessa etapa.
 
 </details>
 
-### Processos de Gerenciamento de projetos: Monitoramento e controle
+
 <details>
 <summary>  Monitoramento e controle  </summary>
 
@@ -140,7 +140,7 @@ Monitorar é acompanhar o andamento do projeto
 
 </details>
 
-### Processos de Gerenciamento de projetos: Encerramento
+
 <details>
 <summary>  Encerramento  </summary>
 
