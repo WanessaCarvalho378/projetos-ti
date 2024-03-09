@@ -152,3 +152,52 @@ Monitorar é acompanhar o andamento do projeto
 
 
 </details>
+
+
+### Gerenciamento de Integração
+
+<details>
+<summary> Termo de abertura de projeto </summary>
+
+É se perguntar: Afinal, o que tenho de entradas?
+
+Especificação do trabalho de projeto
+Business case
+Acordos
+
+Quais as ferramentas e técnicas que posso ter para elaboração do TAP? 
+- Opinião especializada
+- Técnicas de facilitação
+
+Modelo de TAP do MCTI: [SiglaProjeto_TermoAberturaProjeto (1).docx](https://github.com/WanessaCarvalho378/projetos-ti/files/14548003/SiglaProjeto_TermoAberturaProjeto.1.docx)
+Modelo de TAP do Alura: [Alura-Modelo-TAP (1).docx](https://github.com/WanessaCarvalho378/projetos-ti/files/14548004/Alura-Modelo-TAP.1.docx)
+
+Do TAP, sai a base para o Plano de Gerenciamento de Projeto 
+
+</details>
+
+<details>
+<summary> Plano de Gerenciamento de Projeto </summary>
+
+Tem as mesmas entradas do TAP, e desse plano sai Entregas, dados de desempenho do trabalho, 
+atualizações no plano de gerenciamento do projeto, atualizações nos documentos de projeto e solicitações de mudança.
+
+
+</details>
+
+<details>
+<summary> Monitoramento e Controle do trabalho </summary>
+
+- A maior parte do trabalho de monitoramento se baseia na análise de variação entre os resultados coletados e as linhas de base do projeto.
+
+- Também faz parte do monitoramento garantir que todos os envolvidos tenham a correta percepção da situação do projeto e os passos tomados pelo gerente.
+
+- Desta atividade podem ser identificadas mudanças nas linhas de base do projeto, seja oriundo do cliente, como também da identificação de desvios significativos do planejamento.
+
+</details>
+
+<details>
+<summary> Monitoramento das mudanças </summary>
+
+Este processo tem como objetivo sempre revisar todas as solicitações de mudanças que forem propostas ao longo do projeto, 
+aprovando e gerenciando mudanças realizadas nas entregas, ativos de processos organizacionais, documentos do projeto e plano de gerenciamento do projeto.
