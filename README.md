@@ -201,3 +201,28 @@ atualizações no plano de gerenciamento do projeto, atualizações nos document
 
 Este processo tem como objetivo sempre revisar todas as solicitações de mudanças que forem propostas ao longo do projeto, 
 aprovando e gerenciando mudanças realizadas nas entregas, ativos de processos organizacionais, documentos do projeto e plano de gerenciamento do projeto.
+
+</details>
+
+### Gerenciamento de escopo
+
+<details>
+<summary> Escopo </summary>
+
+- Escopo é o que trabalho se propõe a entregar de serviços e/ou produtos
+- Coletando os requisitos, se define o escopo
+- Validação de escopo é validação formal do escopo com o cliente
+
+Escopo do projeto x Escopo do produto: 
+Projeto >> envolve pensar como vai entregar o escopo do produto e como vai gerir o projeto
+Produto >> O que preciso fazer para entregar o produto?
+
+</details>
+
+<details>
+<summary> EAP </summary>
+
+EAP = Estrutura Analítica de Projeto 
+Não se trata de uma estrutura de atividades, mas sim de trabalho
+A EAP subdivide as entregas e o trabalho do projeto em componentes menores e mais facilmente gerenciáveis. 
+site para fazer EAP: http://criticaltools.com/ 
